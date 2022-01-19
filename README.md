@@ -1,6 +1,8 @@
 Generator cloud-init templates from Proxmox
 ===
 
+* Image URL  
+    > from download  
 * Template ID   
     > vm identifier in proxmox  
 * Image path  
